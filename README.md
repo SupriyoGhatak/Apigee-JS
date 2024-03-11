@@ -1,2 +1,2 @@
 # Apigee-JS
-Javascript Basics for Apigee Developemtn
+Javascript Basics for Apigee Development
